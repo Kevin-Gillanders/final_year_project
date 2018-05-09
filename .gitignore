@@ -1,6 +1,12 @@
 *.txt
 *.csv
+*.csv#
 *.db
 misc/
 data/
 ForWhenItAllGoesWrong/
+*.zip
+*.json
+*.swp
+**/bkup
+*.ipynb
