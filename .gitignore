@@ -1,5 +1,4 @@
 *.txt
-*.csv
 *.csv#
 *.db
 misc/
@@ -10,4 +9,3 @@ ForWhenItAllGoesWrong/
 *.swp
 **/bkup
 *.ipynb
-
