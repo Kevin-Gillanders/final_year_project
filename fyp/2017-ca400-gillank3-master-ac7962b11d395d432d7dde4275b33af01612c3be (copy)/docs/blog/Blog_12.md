@@ -1,0 +1,6 @@
+# Recreated and extended research 
+* I recreated [this](http://www.randalolson.com/2015/01/11/a-data-driven-guide-to-creating-successful-reddit-posts-redux/) research by Randy Olson and came up with a theory realating to the reason why posts at 9AM EST do well.
+* The posts do so well at 9AM not just because people are browsing for fresh content at this time, but also because these windows also have the lowest amounts of posts being posted, so it is the perfect mix of people wanting fresh content and there being very little competition for attention
+* The attribute optimal-time was created and based on my dataset
+* Based on [classify paper here](http://cs229.stanford.edu/proj2012/ZamoshchinSegall-PredictingRedditPostPopularity.pdf) who discussed classifying the data by grouping scores, since I had already classified my scores I decided to classify the posts
+    * knn produced a poor result I believe that this could be due to different binning bands being selected as in the paper they didn't discuss how they categorised their results
